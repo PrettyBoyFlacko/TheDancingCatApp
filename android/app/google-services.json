@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687236150402",
+    "project_id": "hellokatty-1d215",
+    "storage_bucket": "hellokatty-1d215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687236150402:android:0be301b5e1a1db65f5709b",
+        "android_client_info": {
+          "package_name": "com.example.hellokatty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY9cQ0SJW5y-ofFsetH_MoUCqUTXK_lFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
